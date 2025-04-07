@@ -63,7 +63,7 @@ En lugar de escribir funciones sueltas, la POO agrupa datos (atributos) y compor
 
 ---
 
-## 💡 Ejemplo Simple
+## 💡 Modelo
 
 ```python
 class Persona:
